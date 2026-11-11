@@ -99,7 +99,7 @@ export function drawMotionFrame(
   ctx.fillText("MOTION STUDY  /  001", 0, height * 0.36);
 
   ctx.fillStyle = "#f4f5fb";
-  ctx.font = "800  clamp(70px, 9vw, 132px) Manrope, sans-serif";
+  ctx.font = "800 112px Manrope, sans-serif";
   ctx.letterSpacing = "-7px";
   ctx.shadowColor = scene.accent + "55";
   ctx.shadowBlur = 24;
